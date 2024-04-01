@@ -1,0 +1,20 @@
+﻿Monday, Pileća supa, Piletina, Kolač
+Monday, Teleća supa, Teletina, Sladoled
+
+Tuesday, Čorba od povrća, Paprikaš, Torta
+Tuesday, Bela čorba, Gulaš, Kolač
+
+Wednesday, Riblja čorba, Pečeni šaran, Posni kolači
+Wednesday, Čorba od povrća, Oslić, Posna torta
+
+Thursday, Supa od povrća, Gulaš, Torta
+Thursday, Pileća supa, Belo meso, Kolač
+
+Friday, Paradajz čorba, Oslić, Posni kolači
+Friday, Bela čorba, Pečeni šaran, Posni sladoled
+
+Saturday, Pileća supa, Piletina, Torta
+Saturday, Paradajz čorba, Pica, Sladoled
+
+Sunday, Bela čorba, Roštilj, Sladoled
+Sunday, Juneća supa, Sarma, Torta

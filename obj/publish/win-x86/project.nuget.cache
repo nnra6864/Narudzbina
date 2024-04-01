@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LAU1UAW90BlCxSpHb2zZB5yxyhHIVQ9+Z6WBD3LtW59bG8KD8jDMt5SWayP6aX7AzWItjoxqo+pLX7tk1eQsSw==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Programming\\C#\\School\\Narudzbina\\Narudzbina.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.3\\microsoft.netcore.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.3\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.3\\microsoft.aspnetcore.app.runtime.win-x86.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
